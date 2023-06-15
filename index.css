@@ -6,7 +6,11 @@
         font-display: swap;
       }
 
-p{
- color:'red';
-}
+      p{
+       color:'red';
+      }
 
+      .centerweak {
+        background-color: rgb(43, 43, 42);
+        margin-lef: 30px;
+      }
